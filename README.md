@@ -12,7 +12,7 @@ This web application allows patients to register, book appointments with doctors
 
 ### Tech Stack:
 - **Frontend**: React, Tailwind CSS, Shad-cn
-- **Backend**: Node.js, Appwrite
+- **Backend**: Node.js, Appwrite , Next.JS
 - **Other Tools**: React Hook Form, Zod, File Uploads, Date Picker, Phone Input, Custom Components
 
 ### Setup Instructions:
